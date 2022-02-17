@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Sakız",
+        "price": 0.5,
+        "images": "https://www.google.com.tr/imgres?imgurl=https%3A%2F%2Fwww.cagri.com%2FUploads%2FUrunResimleri%2Fthumb%2Ffirst-sensations-damla-27-gr-3756.jpg&imgrefurl=https%3A%2F%2Fwww.cagri.com%2Fsakiz&tbnid=yZNWQMCqIKx-1M&vet=12ahUKEwjVuozlyYf2AhXJuKQKHRVEAi4QMyhIegQIARBx..i&docid=Z4Emd1fo4Vr2RM&w=325&h=325&q=sak%C4%B1z%20resmi&ved=2ahUKEwjVuozlyYf2AhXJuKQKHRVEAi4QMyhIegQIARBx"
+    },
+    {
+        "id": 2,
+        "title": "Kola",
+        "price": 6,
+        "images": "https://www.google.com.tr/imgres?imgurl=https%3A%2F%2Fcdn.dsmcdn.com%2Fty28%2Fproduct%2Fmedia%2Fimages%2F20201127%2F18%2F33097970%2F58233896%2F1%2F1_org_zoom.jpg&imgrefurl=https%3A%2F%2Fwww.trendyol.com%2Fcoca-cola%2Fkola-1-lt-p-32404687&tbnid=CaRhCgu1RHwmZM&vet=12ahUKEwjboeamyof2AhVfg_0HHXRFAnoQMygAegUIARCIAQ..i&docid=A3BIzuU6kps9HM&w=1200&h=1800&q=kola%20resmi&ved=2ahUKEwjboeamyof2AhVfg_0HHXRFAnoQMygAegUIARCIAQ"
+    },
+    {
+        "id": 3,
+        "title": "ayakkabı",
+        "price": 40000,
+        "images": "https://www.google.com.tr/imgres?imgurl=https%3A%2F%2Fst-vans.mncdn.com%2Fmnresize%2F1500%2F1500%2FContent%2Fmedia%2FProductImg%2Foriginal%2F637639382878540670.jpg&imgrefurl=https%3A%2F%2Fwww.vans.com.tr%2Fcomfycush-old-skool-ayakkabi_124712&tbnid=LU796Y2ahaXZmM&vet=12ahUKEwiijcnAyof2AhUG0YUKHd3UCcYQMygBegUIARDFAQ..i&docid=4xOt3qrJPw7aCM&w=1500&h=1500&q=ayakkab%C4%B1resmi&ved=2ahUKEwiijcnAyof2AhUG0YUKHd3UCcYQMygBegUIARDFAQ"
+    },
+    {
+        "id": 4,
+        "title": "Araba",
+        "price": 40000,
+        "images": "https://www.google.com.tr/imgres?imgurl=https%3A%2F%2Fwww.kanal46.com%2Fimages%2Fhaberler%2F2020%2F12%2Fspor_araba_onerileri_h90631_a2d0e.png&imgrefurl=https%3A%2F%2Fwww.kanal46.com%2Fgenel%2Fspor-araba-onerileri-h90631.html&tbnid=MKHjOMn2xEXfKM&vet=12ahUKEwjRxcjQyof2AhUbEmMBHW-eC8EQMygUegUIARDsAQ..i&docid=jVK5enKOIeVmQM&w=706&h=431&q=araba%20resmi&ved=2ahUKEwjRxcjQyof2AhUbEmMBHW-eC8EQMygUegUIARDsAQ"
+    }
+]
